@@ -40,11 +40,11 @@ Using a real-world HR dataset, we explored factors influencing employee turnover
 
 ## Model Performance
 ```
-| Model             | Accuracy | Precision | Recall | F1 Score |
-|------------------|----------|-----------|--------|----------|
-| Logistic Regression | 83%     | Low for attrition | Low | Low |
-| Random Forest     | 97.8%    | High      | High   | High     |
-| XGBoost           | **97.9%**| High      | High   | High     |
+| Model               | Accuracy | Precision | Recall | F1 Score  |
+|---------------------|----------|-----------|--------|-----------|
+| Logistic Regression | 83%      | Low for attrition  | Low | Low |
+| Random Forest       | 97.8%    | High      | High   | High      |
+| XGBoost             | **97.9%**| High      | High   | High      |
 ```
 
 XGBoost yielded the best performance overall with balanced accuracy, recall, and precision.
