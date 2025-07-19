@@ -83,4 +83,5 @@ This project is part of the Google Advanced Data Analytics Capstone. Github repo
 ## Author
 Asifur Rahman
 University of Arizona | Google Data Advanced Data Analytics Capstone | 2025
-LinkedIn: https://www.linkedin.com/in/iamasiff/
+
+- LinkedIn: https://www.linkedin.com/in/iamasiff/
